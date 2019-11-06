@@ -1,0 +1,25 @@
+{
+  "name": "react-materialize-demo",
+  "description": "",
+  "main": "",
+  "authors": [
+    "yaodi0901 <yaodi@medlinker.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yaodi2015/workspace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.1",
+    "icon": "http://fonts.googleapis.com/icon?family=Material+Icons",
+    "materialize.min.js": "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js",
+    "materialize.min.css": "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css",
+    "plupload": "^3.1.0",
+    "qiniu": "^1.0.19"
+  }
+}

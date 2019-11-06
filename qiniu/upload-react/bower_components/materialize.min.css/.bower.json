@@ -1,0 +1,11 @@
+{
+  "name": "materialize.min",
+  "_cacheHeaders": {
+    "Last-Modified": "Wed, 25 Jan 2017 20:32:52 GMT",
+    "Content-Type": "text/css"
+  },
+  "main": "index.css",
+  "_source": "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css",
+  "_target": "*",
+  "_originalSource": "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css"
+}
